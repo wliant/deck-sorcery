@@ -1,3 +1,5 @@
+#this file handle all the reading and writing of data files
+
 import csv
 import json
 #cards will hold a list of class dictonary object 
