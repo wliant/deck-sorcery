@@ -52,6 +52,16 @@ for card in cards2:
         "durability": durability
     })
 
+cardDict = {c["id"]: c for c in myCardList}
+
 def getAllCards():
     return myCardList
 
+def getAvailableCardIdsForConstruction(heroClass): 
+    return [c["id"] for c in myCardList if c["class"].lower() in [heroClass.lower(), "neutral"]]
+
+def getRarity(cardId):
+    return cardDict[cardId]["rarity"]
+
+def getCardName(cardId):
+    return cardDict[cardId]["name"]
