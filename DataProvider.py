@@ -14,7 +14,7 @@ with open(cardJsonFile, "rb") as infile:
     #load from json file
     cards = json.load(infile)
 
-with open(cardCsvFile) as infile:
+with open(cardCsvFile,encoding ="ISO-8859-1") as infile:
     reader = csv.reader(infile, quotechar='"', delimiter=',', quoting=csv.QUOTE_ALL, skipinitialspace=True)
     cards2 = [r for r in reader]
 
@@ -65,3 +65,12 @@ def getRarity(cardId):
 
 def getCardName(cardId):
     return cardDict[cardId]["name"]
+
+def getAllHeroClass():
+    classes = [card['class'] for card in myCardList]
+    return list(dict.fromkeys(classes))
+
+def getCardsForHero(heroClass):
+    cardsForHero=[card for card in myCardList if card['class'] == heroClass]
+    print(cardsForHero)
+    return cardsForHero
