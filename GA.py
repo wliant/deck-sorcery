@@ -150,4 +150,14 @@ def generateDeck(heroClass, initialSelection):
     ga = GeneticAlgorithm(heroClass, initialSelection)
     return ga.run()
 
+#heroClasses = ["DRUID", "HUNTER", "MAGE", "PALADIN", "PRIEST", "ROGUE", "SHAMAN", "WARLOCK", "WARRIOR"]
+#for hc in heroClasses:
+#    allResults = []
+#    for i in range(100):
+#        result=generateDeck(hc, [])
+#        allResults.append([getCardName(c) for c in result])
+#    with open(hc+".csv", "wb") as outfile:
+#        for r in allResults:
+#            outfile.write(",".join(r) + "\n")
+
 #generateDeck("MAGE",[])

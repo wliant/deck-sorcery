@@ -44,7 +44,7 @@ def cardsForHero():
 def getTheDeckForHero():
 	heroClass = request.args.get('heroClass')
 	print("heroClass in result "+heroClass)
-	print(generateDeck(heroClass,[]))
+	#print(generateDeck(heroClass,[]))
 	#return json.dumps([8,9,10,11,12]),200
 	return json.dumps(generateDeck(heroClass,[])), 200
 

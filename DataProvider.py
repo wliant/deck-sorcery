@@ -9,6 +9,7 @@ cardCsvFile = "data/cards-wild.csv"
 cardStatsFile = "data/card-stats.json"
 deckStatsFile = "data/deck-stats.json"
 
+standardSet = ["GILNEAS", "BOOMSDAY", "TROLL", "CORE", "DALARAN"]
 cards = []
 cards2 = []
 cardStats = {}
@@ -37,6 +38,8 @@ for card in cards2:
 myCardList = []
 for card in cards2:
     searchResult = [a for a in cards if a["name"] == card[0] and ("set" not in a or a["set"] != "HERO_SKINS")]
+    if len(searchResult) == 0:
+        continue
     matchedCard = searchResult[0]
 
     cardId = matchedCard["dbfId"]
@@ -48,6 +51,7 @@ for card in cards2:
     health = card[6]
     attack = card[7]
     cost = card[5]
+    classSet = matchedCard["set"]
     durability = card[8]
     myCardList.append({
         "id": cardId,
@@ -59,6 +63,7 @@ for card in cards2:
         "health": health,
         "attack": attack,
         "cost": cost,
+        "set": classSet,
         "durability": durability
     })
 
@@ -74,7 +79,7 @@ def getAllCards():
     return myCardList
 
 def getAvailableCardIdsForConstruction(heroClass): 
-    return [c["id"] for c in myCardList if c["class"].lower() in [heroClass.lower(), "neutral"]]
+    return [c["id"] for c in myCardList if c["class"].lower() in [heroClass.lower(), "neutral"] and c["set"] in standardSet and c["id"] != 50477]
 
 def getRarity(cardId):
     return cardDict[cardId]["rarity"]
@@ -84,6 +89,9 @@ def getCardName(cardId):
 
 def getCardType(cardId):
     return cardDict[cardId]["type"]
+
+def getCardClass(cardId):
+    return cardDict[cardId]["class"]
 
 def getCardRarity(cardId):
     return cardDict[cardId]["rarity"]
