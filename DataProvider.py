@@ -6,13 +6,23 @@ import json
 
 cardJsonFile = "data/cards-in-use.json"
 cardCsvFile = "data/cards-wild.csv"
+cardStatsFile = "data/card-stats.json"
+deckStatsFile = "data/deck-stats.json"
 
 cards = []
 cards2 = []
+cardStats = {}
+deckStats = {}
 #data processing cards data
 with open(cardJsonFile, "rb") as infile:
     #load from json file
     cards = json.load(infile)
+
+with open(cardStatsFile, "rb") as infile:
+    cardStats = json.load(infile)["series"]["data"]
+   
+with open(deckStatsFile, "rb") as infile:
+    deckStats = json.load(infile)["series"]["data"]
 
 with open(cardCsvFile,encoding ="ISO-8859-1") as infile:
     reader = csv.reader(infile, quotechar='"', delimiter=',', quoting=csv.QUOTE_ALL, skipinitialspace=True)
@@ -54,6 +64,12 @@ for card in cards2:
 
 cardDict = {c["id"]: c for c in myCardList}
 
+def getCardStats():
+    return cardStats
+
+def getDeckStats():
+    return deckStats
+
 def getAllCards():
     return myCardList
 
@@ -65,6 +81,21 @@ def getRarity(cardId):
 
 def getCardName(cardId):
     return cardDict[cardId]["name"]
+
+def getCardType(cardId):
+    return cardDict[cardId]["type"]
+
+def getCardRarity(cardId):
+    return cardDict[cardId]["rarity"]
+
+def getCardHealth(cardId):
+    return int(cardDict[cardId]["health"]) 
+
+def getCardAttack(cardId):
+    return int(cardDict[cardId]["attack"])
+
+def getCardCost(cardId):
+    return int(cardDict[cardId]["cost"])
 
 def getAllHeroClass():
     classes = [card['class'] for card in myCardList]

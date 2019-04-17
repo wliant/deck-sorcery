@@ -1,5 +1,5 @@
 from DataProvider import *
-from FitnessFunctionOnly import predict
+from KDD import predict
 import random
 from deap import base
 from deap import creator
@@ -7,6 +7,7 @@ from deap import tools
 
 class GeneticAlgorithm:
     def __init__(self, heroClass, initialSelection):
+        self.heroClass = heroClass
         self.cardPool = getAvailableCardIdsForConstruction(heroClass)
         self.initialSelection = initialSelection
         self.toolbox = base.Toolbox()
@@ -42,7 +43,7 @@ class GeneticAlgorithm:
             deck.add(i)
         for index in individual:
             deck.add(self.cardPool[index])
-        return predict(deck),    
+        return predict(self.heroClass, deck),    
     def feasible(self, individual):
         deck = {}
         for i in self.initialSelection:
@@ -148,3 +149,5 @@ class GeneticAlgorithm:
 def generateDeck(heroClass, initialSelection):
     ga = GeneticAlgorithm(heroClass, initialSelection)
     return ga.run()
+
+#generateDeck("MAGE",[])
