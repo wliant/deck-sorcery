@@ -142,7 +142,7 @@ class GeneticAlgorithm:
         al = sorted(best_ind)
         for index in al:
             print(getCardName(self.cardPool[index]))
-        return []
+        return [self.cardPool[index] for index in al]
 
 # initialSelection is a list of cards id preselected by the user. can by empty
 # this method return the result after the genetic algorithm run.
