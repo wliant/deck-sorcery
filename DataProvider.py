@@ -68,7 +68,8 @@ for card in cards2:
     })
 
 cardDict = {c["id"]: c for c in myCardList}
-
+races = {c["race"] for c in myCardList}
+print(races)
 def getCardStats():
     return cardStats
 
@@ -86,6 +87,9 @@ def getRarity(cardId):
 
 def getCardName(cardId):
     return cardDict[cardId]["name"]
+
+def getCardRace(cardId):
+    return cardDict[cardId]["race"]
 
 def getCardType(cardId):
     return cardDict[cardId]["type"]

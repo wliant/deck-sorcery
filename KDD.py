@@ -51,6 +51,9 @@ def calcualteMinionStatsRatio(cardArray):
     
     return stats / cost
     
+def calculateRaceCount(race, cardArray):
+    cards = [c for c in cardArray if getCardRace(c) == race or getCardRace(c) == "ALL"]
+    return len(cards)
 def calculateCostCount(cost, cardArray):
     if cost == 1:
         cards = [c for c in cardArray if getCardCost(c) <= 1]
@@ -62,13 +65,21 @@ def calculateCostCount(cost, cardArray):
 
 #this function convert the deck to feature array 
 def convertToFeaturesArray(heroClass, deck): 
-
-    return [calculateUniqueCount(deck),
+    #{'', 'PIRATE', 'ELEMENTAL', 'DEMON', 'TOTEM', 'DRAGON', 'MURLOC', 'MECHANICAL', 'BEAST', 'ALL'}
+    result = [calculateUniqueCount(deck),
             calcualteMinionStatsRatio(deck),
             calculateTypeCount("SPELL", deck),
             calculateTypeCount("MINION", deck),
             calculateTypeCount("HERO", deck),
             calculateTypeCount("WEAPON", deck),
+            calculateRaceCount("PIRATE", deck),
+            calculateRaceCount("ELEMENTAL", deck),
+            calculateRaceCount("DEMON", deck),
+            calculateRaceCount("TOTEM", deck),
+            calculateRaceCount("DRAGON", deck),
+            calculateRaceCount("MURLOC", deck),
+            calculateRaceCount("MECHANICAL", deck),
+            calculateRaceCount("BEAST", deck),
             #calculateClassCardCount(deck),
             calculateCostCount(1, deck),
             calculateCostCount(2, deck),
@@ -79,6 +90,9 @@ def convertToFeaturesArray(heroClass, deck):
             calculateCostCount(7, deck),
             calculateAverageCardWinRate(heroClass, deck)
         ]
+    #print(result)
+    return result
+
         
 for hc in heroClasses:
     deckFeatures = []
