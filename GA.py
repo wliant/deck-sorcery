@@ -156,7 +156,7 @@ class GeneticAlgorithm:
 
 # initialSelection is a list of cards id preselected by the user. can by empty
 # this method return the result after the genetic algorithm run.
-def generateDeck(heroClass, initialSelection):
+def generateDeck(heroClass, initialSelection, useLibrary=False):
     ga = GeneticAlgorithm(heroClass, initialSelection)
     #return ga.run(popSize=600, noOfGen=2000)
     return ga.run()
