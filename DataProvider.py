@@ -6,11 +6,13 @@ import json
 
 cardJsonFile = "data/cards-in-use.json"
 cardCsvFile = "data/cards-wild.csv"
+cardLibraryCsvFile = "data/cards-library.csv"
 cardStatsFile = "data/card-stats.json"
 deckStatsFile = "data/deck-stats.json"
 
 cards = []
 cards2 = []
+cardIdsLibrary = []
 cardStats = {}
 deckStats = {}
 #data processing cards data
@@ -27,6 +29,10 @@ with open(deckStatsFile, "rb") as infile:
 with open(cardCsvFile,encoding ="ISO-8859-1") as infile:
     reader = csv.reader(infile, quotechar='"', delimiter=',', quoting=csv.QUOTE_ALL, skipinitialspace=True)
     cards2 = [r for r in reader]
+
+with open(cardLibraryCsvFile,encoding ="ISO-8859-1") as infile:
+    reader = csv.reader(infile, quotechar='"', delimiter=',', quoting=csv.QUOTE_ALL, skipinitialspace=True)
+    cardIdsLibrary = [r for r in reader]
 
 # validate card names from csv file match with json file
 for card in cards2:
@@ -105,3 +111,8 @@ def getCardsForHero(heroClass):
     cardsForHero=[card for card in myCardList if card['class'] == heroClass]
     print(cardsForHero)
     return cardsForHero
+
+def getLibrary():
+    print(cardIdsLibrary)
+    return cardIdsLibrary
+
