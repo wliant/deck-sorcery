@@ -4,6 +4,8 @@ from flask import render_template
 from flask import json
 from flask import request,redirect,url_for,session
 from GA import generateDeck
+import csv
+
 
 import random
 import sys
@@ -25,6 +27,10 @@ def single():
 def services():
 	return render_template("services.html"), 200
 
+@app.route("/library")
+def library():
+	return render_template("library.html"), 200
+
 @app.route("/result")
 def generatedResult():
 	return render_template("result.html"), 200
@@ -42,11 +48,14 @@ def cardsForHero():
 
 @app.route("/getTheDeckForHero")
 def getTheDeckForHero():
-	heroClass = request.args.get('heroClass')
-	print("heroClass in result "+heroClass)
-	#print(generateDeck(heroClass,[]))
-	#return json.dumps([8,9,10,11,12]),200
-	return json.dumps(generateDeck(heroClass,[])), 200
+    heroClass = request.args.get('heroClass')
+    resultIdList = generateDeck(heroClass,[])
+    print(resultIdList)
+    return json.dumps(resultIdList),200
+
+@app.route("/getCardsLibrary")
+def getCardsLibrary():
+    return json.dumps(getLibrary()),200
 
 
 
