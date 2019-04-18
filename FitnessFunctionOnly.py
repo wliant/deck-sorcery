@@ -223,7 +223,7 @@ individual_card_merged.head()
 # In[26]:
 
 
-selected_cards['Ratio'].unique()
+#selected_cards['Ratio'].unique()
 
 
 # In[27]:
@@ -248,7 +248,7 @@ deck_card_named
 # In[33]:
 
 
-sample_deck['cost'].skew()
+#sample_deck['cost'].skew()
 
 
 # In[34]:
