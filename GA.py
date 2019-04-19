@@ -158,8 +158,8 @@ class GeneticAlgorithm:
 # this method return the result after the genetic algorithm run.
 def generateDeck(heroClass, initialSelection, useLibrary=False):
     ga = GeneticAlgorithm(heroClass, initialSelection)
-    #return ga.run(popSize=600, noOfGen=2000)
-    return ga.run()
+    return ga.run(popSize=600, noOfGen=2000)
+    #return ga.run()
 
 #generateDeck("MAGE", [])
 #heroClasses = ["DRUID", "HUNTER", "MAGE", "PALADIN", "PRIEST", "ROGUE", "SHAMAN", "WARLOCK", "WARRIOR"]

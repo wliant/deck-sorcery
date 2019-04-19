@@ -42,7 +42,7 @@ for hc in heroClasses:
     with open("data/{0}-rule.csv".format(hc), 'r') as infile:
         for line in infile:
             results = line.strip().split(",")
-            antecedent = results[0:len(results)-1]
+            antecedent = [int(x) for x in results[0:len(results)-1]]
             consequence = results[len(results)-1]
             rules[hc][consequence].append(antecedent)
             
