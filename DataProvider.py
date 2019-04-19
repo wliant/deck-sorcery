@@ -39,7 +39,7 @@ rules = {}
 heroClasses = ["DRUID", "HUNTER", "MAGE", "PALADIN", "PRIEST", "ROGUE", "SHAMAN", "WARLOCK", "WARRIOR"]
 for hc in heroClasses:
     rules[hc] = {"HIGH": [], "LOW": [], "MEDIUM": []}
-    with open("{0}-rule.csv".format(hc), 'r') as infile:
+    with open("data/{0}-rule.csv".format(hc), 'r') as infile:
         for line in infile:
             results = line.strip().split(",")
             antecedent = results[0:len(results)-1]
