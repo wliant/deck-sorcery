@@ -137,6 +137,13 @@ def getCardsForHero(heroClass):
     print(cardsForHero)
     return cardsForHero
 
+def getCardId(name):
+    for c in myCardList:
+        if c["name"] == name:
+            return c["id"]
+    
+    print("notfound: {0}".format(name))
+
 def getLibrary():
     print(cardIdsLibrary)
     return cardIdsLibrary
