@@ -35,6 +35,20 @@ with open(cardLibraryCsvFile,encoding ="ISO-8859-1") as infile:
     reader = csv.reader(infile, quotechar='"', delimiter=',', quoting=csv.QUOTE_ALL, skipinitialspace=True)
     cardIdsLibrary = [r for r in reader]
 
+rules = {}
+heroClasses = ["DRUID", "HUNTER", "MAGE", "PALADIN", "PRIEST", "ROGUE", "SHAMAN", "WARLOCK", "WARRIOR"]
+for hc in heroClasses:
+    rules[hc] = {"HIGH": [], "LOW": [], "MEDIUM": []}
+    with open("{0}-rule.csv".format(hc), 'r') as infile:
+        for line in infile:
+            results = line.strip().split(",")
+            antecedent = results[0:len(results)-1]
+            consequence = results[len(results)-1]
+            rules[hc][consequence].append(antecedent)
+            
+
+            
+
 # validate card names from csv file match with json file
 for card in cards2:
     result = [a for a in cards if a["name"] == card[0] and ("set" not in a or a["set"] != "HERO_SKINS")]
@@ -129,3 +143,5 @@ def getLibrary():
     print(cardIdsLibrary)
     return cardIdsLibrary
 
+def getAssociationRules(heroClass):
+    return rules[heroClass]

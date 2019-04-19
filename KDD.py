@@ -63,6 +63,21 @@ def calculateCostCount(cost, cardArray):
         cards = [c for c in cardArray if getCardCost(c) == cost]
     return len(cards)
 
+def calculateRule(heroClass, ruleGroup, deck):
+    rules = getAssociationRules(heroClass)[ruleGroup]
+    count = 0
+    for r in rules:
+        matched = True
+        for card in r:
+            if card not in deck:
+                matched = False
+                break
+        if matched:
+            count+=1
+    
+    return count
+
+
 #this function convert the deck to feature array 
 def convertToFeaturesArray(heroClass, deck): 
     #{'', 'PIRATE', 'ELEMENTAL', 'DEMON', 'TOTEM', 'DRAGON', 'MURLOC', 'MECHANICAL', 'BEAST', 'ALL'}
@@ -88,7 +103,10 @@ def convertToFeaturesArray(heroClass, deck):
             calculateCostCount(5, deck),
             calculateCostCount(6, deck),
             calculateCostCount(7, deck),
-            calculateAverageCardWinRate(heroClass, deck)
+            calculateRule(heroClass, "HIGH", deck),
+            calculateRule(heroClass, "MEDIUM", deck),
+            calculateRule(heroClass, "LOW", deck)
+            #calculateAverageCardWinRate(heroClass, deck)
         ]
     #print(result)
     return result
