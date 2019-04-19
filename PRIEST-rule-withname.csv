@@ -1,0 +1,14 @@
+Shadow Visions,HIGH
+Shadow Visions,MEDIUM
+Psychic Scream,HIGH
+Psychic Scream,MEDIUM
+Mass Hysteria,HIGH
+Power Word: Shield,HIGH
+Psychic Scream,Shadow Visions,HIGH
+Psychic Scream,Shadow Visions,MEDIUM
+Shadow Visions,Mass Hysteria,HIGH
+Power Word: Shield,Shadow Visions,HIGH
+Psychic Scream,Mass Hysteria,HIGH
+Power Word: Shield,Psychic Scream,HIGH
+Psychic Scream,Shadow Visions,Mass Hysteria,HIGH
+Power Word: Shield,Psychic Scream,Shadow Visions,HIGH

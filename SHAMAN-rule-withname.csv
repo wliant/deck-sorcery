@@ -1,0 +1,35 @@
+Murloc Warleader,HIGH
+Bloodlust,HIGH
+Hagatha the Witch,LOW
+Murloc Tidecaller,HIGH
+Underbelly Angler,HIGH
+Toxfin,HIGH
+Sludge Slurper,HIGH
+Hex,LOW
+Murloc Tidecaller,Murloc Warleader,HIGH
+Underbelly Angler,Murloc Warleader,HIGH
+Toxfin,Murloc Warleader,HIGH
+Sludge Slurper,Murloc Warleader,HIGH
+Sludge Slurper,Bloodlust,HIGH
+Murloc Tidecaller,Underbelly Angler,HIGH
+Murloc Tidecaller,Toxfin,HIGH
+Murloc Tidecaller,Sludge Slurper,HIGH
+Toxfin,Underbelly Angler,HIGH
+Sludge Slurper,Underbelly Angler,HIGH
+Sludge Slurper,Toxfin,HIGH
+Murloc Tidecaller,Underbelly Angler,Murloc Warleader,HIGH
+Murloc Tidecaller,Toxfin,Murloc Warleader,HIGH
+Murloc Tidecaller,Sludge Slurper,Murloc Warleader,HIGH
+Underbelly Angler,Toxfin,Murloc Warleader,HIGH
+Sludge Slurper,Underbelly Angler,Murloc Warleader,HIGH
+Sludge Slurper,Toxfin,Murloc Warleader,HIGH
+Murloc Tidecaller,Toxfin,Underbelly Angler,HIGH
+Murloc Tidecaller,Sludge Slurper,Underbelly Angler,HIGH
+Murloc Tidecaller,Toxfin,Sludge Slurper,HIGH
+Sludge Slurper,Toxfin,Underbelly Angler,HIGH
+Murloc Tidecaller,Underbelly Angler,Toxfin,Murloc Warleader,HIGH
+Murloc Tidecaller,Underbelly Angler,Sludge Slurper,Murloc Warleader,HIGH
+Murloc Tidecaller,Toxfin,Sludge Slurper,Murloc Warleader,HIGH
+Sludge Slurper,Underbelly Angler,Toxfin,Murloc Warleader,HIGH
+Murloc Tidecaller,Toxfin,Sludge Slurper,Underbelly Angler,HIGH
+Murloc Tidecaller,Toxfin,Murloc Warleader,Sludge Slurper,Underbelly Angler,HIGH

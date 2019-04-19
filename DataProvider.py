@@ -56,23 +56,21 @@ for card in cards2:
         print("{0}: found {1}".format(card[0], len(result)))
 
 myCardList = []
-for card in cards2:
-    searchResult = [a for a in cards if a["name"] == card[0] and ("set" not in a or a["set"] != "HERO_SKINS")]
-    if len(searchResult) == 0:
+for card in cards:
+    if "set" not in card or card["set"] == "HERO_SKINS" or card["set"] == "CORE" and card["type"] == "HERO" or "collectible" not in card or not card["collectible"]:
         continue
-    matchedCard = searchResult[0]
 
-    cardId = matchedCard["dbfId"]
-    name = card[0]
-    cardType = matchedCard["type"]
-    cardRarity = matchedCard["rarity"]
-    cardClass = matchedCard["cardClass"]
-    cardRace = matchedCard["race"] if "race" in matchedCard else ""
-    health = card[6]
-    attack = card[7]
-    cost = card[5]
-    classSet = matchedCard["set"]
-    durability = card[8]
+    cardId = card["dbfId"]
+    name = card["name"]
+    cardType = card["type"]
+    cardRarity = card["rarity"]
+    cardClass = card["cardClass"]
+    cardRace = card["race"] if "race" in card else ""
+    health = card["health"] if "health" in card else ""
+    attack = card["attack"] if "attack" in card else ""
+    cost = card["cost"] if "cost" in card else ""
+    classSet = card["set"]
+    durability = card["durability"] if "durability" in card else ""
     myCardList.append({
         "id": cardId,
         "name": name,

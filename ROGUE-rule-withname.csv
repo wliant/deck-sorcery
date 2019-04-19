@@ -1,0 +1,1034 @@
+SI:7 Agent,HIGH
+SI:7 Agent,MEDIUM
+Preparation,HIGH
+Preparation,LOW
+Backstab,HIGH
+Edwin VanCleef,HIGH
+Edwin VanCleef,MEDIUM
+Raiding Party,HIGH
+EVIL Miscreant,HIGH
+Waggle Pick,HIGH
+Leeroy Jenkins,HIGH
+Leeroy Jenkins,MEDIUM
+Dread Corsair,HIGH
+Eviscerate,HIGH
+Eviscerate,MEDIUM
+Preparation,SI:7 Agent,HIGH
+Backstab,SI:7 Agent,HIGH
+Edwin VanCleef,SI:7 Agent,HIGH
+Raiding Party,SI:7 Agent,HIGH
+EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,SI:7 Agent,HIGH
+Leeroy Jenkins,SI:7 Agent,HIGH
+Dread Corsair,SI:7 Agent,HIGH
+Eviscerate,SI:7 Agent,HIGH
+Backstab,Preparation,HIGH
+Edwin VanCleef,Preparation,HIGH
+Preparation,Raiding Party,HIGH
+EVIL Miscreant,Preparation,HIGH
+Waggle Pick,Preparation,HIGH
+Leeroy Jenkins,Preparation,HIGH
+Preparation,Dread Corsair,HIGH
+Eviscerate,Preparation,HIGH
+Eviscerate,Preparation,MEDIUM
+Edwin VanCleef,Backstab,HIGH
+Edwin VanCleef,Backstab,MEDIUM
+Backstab,Raiding Party,HIGH
+EVIL Miscreant,Backstab,HIGH
+Waggle Pick,Backstab,HIGH
+Backstab,Leeroy Jenkins,HIGH
+Backstab,Dread Corsair,HIGH
+Backstab,Eviscerate,HIGH
+Backstab,Eviscerate,MEDIUM
+Edwin VanCleef,Raiding Party,HIGH
+Edwin VanCleef,EVIL Miscreant,HIGH
+Edwin VanCleef,Waggle Pick,HIGH
+Edwin VanCleef,Leeroy Jenkins,HIGH
+Edwin VanCleef,Dread Corsair,HIGH
+Edwin VanCleef,Eviscerate,HIGH
+Edwin VanCleef,Eviscerate,MEDIUM
+EVIL Miscreant,Raiding Party,HIGH
+Waggle Pick,Raiding Party,HIGH
+Leeroy Jenkins,Raiding Party,HIGH
+Dread Corsair,Raiding Party,HIGH
+Eviscerate,Raiding Party,HIGH
+Waggle Pick,EVIL Miscreant,HIGH
+EVIL Miscreant,Leeroy Jenkins,HIGH
+EVIL Miscreant,Dread Corsair,HIGH
+EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Leeroy Jenkins,HIGH
+Waggle Pick,Dread Corsair,HIGH
+Waggle Pick,Eviscerate,HIGH
+Leeroy Jenkins,Dread Corsair,HIGH
+Leeroy Jenkins,Eviscerate,HIGH
+Eviscerate,Dread Corsair,HIGH
+Backstab,Preparation,SI:7 Agent,HIGH
+Edwin VanCleef,Preparation,SI:7 Agent,HIGH
+Preparation,Raiding Party,SI:7 Agent,HIGH
+EVIL Miscreant,Preparation,SI:7 Agent,HIGH
+Waggle Pick,Preparation,SI:7 Agent,HIGH
+Leeroy Jenkins,Preparation,SI:7 Agent,HIGH
+Preparation,Dread Corsair,SI:7 Agent,HIGH
+Eviscerate,Preparation,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,SI:7 Agent,HIGH
+Backstab,Raiding Party,SI:7 Agent,HIGH
+EVIL Miscreant,Backstab,SI:7 Agent,HIGH
+Waggle Pick,Backstab,SI:7 Agent,HIGH
+Backstab,Leeroy Jenkins,SI:7 Agent,HIGH
+Backstab,Dread Corsair,SI:7 Agent,HIGH
+Backstab,Eviscerate,SI:7 Agent,HIGH
+Edwin VanCleef,Raiding Party,SI:7 Agent,HIGH
+Edwin VanCleef,EVIL Miscreant,SI:7 Agent,HIGH
+Edwin VanCleef,Waggle Pick,SI:7 Agent,HIGH
+Edwin VanCleef,Leeroy Jenkins,SI:7 Agent,HIGH
+Edwin VanCleef,Dread Corsair,SI:7 Agent,HIGH
+Edwin VanCleef,Eviscerate,SI:7 Agent,HIGH
+EVIL Miscreant,Raiding Party,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,SI:7 Agent,HIGH
+Dread Corsair,Raiding Party,SI:7 Agent,HIGH
+Eviscerate,Raiding Party,SI:7 Agent,HIGH
+Waggle Pick,EVIL Miscreant,SI:7 Agent,HIGH
+EVIL Miscreant,Leeroy Jenkins,SI:7 Agent,HIGH
+EVIL Miscreant,Dread Corsair,SI:7 Agent,HIGH
+EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Leeroy Jenkins,SI:7 Agent,HIGH
+Waggle Pick,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Eviscerate,SI:7 Agent,HIGH
+Eviscerate,Dread Corsair,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Preparation,HIGH
+Backstab,Preparation,Raiding Party,HIGH
+EVIL Miscreant,Backstab,Preparation,HIGH
+Waggle Pick,Backstab,Preparation,HIGH
+Backstab,Preparation,Leeroy Jenkins,HIGH
+Backstab,Preparation,Dread Corsair,HIGH
+Eviscerate,Backstab,Preparation,HIGH
+Eviscerate,Backstab,Preparation,MEDIUM
+Edwin VanCleef,Preparation,Raiding Party,HIGH
+Edwin VanCleef,EVIL Miscreant,Preparation,HIGH
+Edwin VanCleef,Waggle Pick,Preparation,HIGH
+Edwin VanCleef,Leeroy Jenkins,Preparation,HIGH
+Edwin VanCleef,Preparation,Dread Corsair,HIGH
+Edwin VanCleef,Eviscerate,Preparation,HIGH
+EVIL Miscreant,Preparation,Raiding Party,HIGH
+Waggle Pick,Preparation,Raiding Party,HIGH
+Leeroy Jenkins,Preparation,Raiding Party,HIGH
+Dread Corsair,Preparation,Raiding Party,HIGH
+Eviscerate,Preparation,Raiding Party,HIGH
+Waggle Pick,EVIL Miscreant,Preparation,HIGH
+EVIL Miscreant,Preparation,Leeroy Jenkins,HIGH
+EVIL Miscreant,Preparation,Dread Corsair,HIGH
+Eviscerate,EVIL Miscreant,Preparation,HIGH
+Waggle Pick,Leeroy Jenkins,Preparation,HIGH
+Waggle Pick,Preparation,Dread Corsair,HIGH
+Eviscerate,Waggle Pick,Preparation,HIGH
+Leeroy Jenkins,Preparation,Dread Corsair,HIGH
+Eviscerate,Leeroy Jenkins,Preparation,HIGH
+Eviscerate,Preparation,Dread Corsair,HIGH
+Edwin VanCleef,Backstab,Raiding Party,HIGH
+Edwin VanCleef,EVIL Miscreant,Backstab,HIGH
+Edwin VanCleef,Waggle Pick,Backstab,HIGH
+Edwin VanCleef,Backstab,Leeroy Jenkins,HIGH
+Edwin VanCleef,Backstab,Dread Corsair,HIGH
+Edwin VanCleef,Backstab,Eviscerate,HIGH
+Edwin VanCleef,Backstab,Eviscerate,MEDIUM
+EVIL Miscreant,Backstab,Raiding Party,HIGH
+Waggle Pick,Backstab,Raiding Party,HIGH
+Backstab,Leeroy Jenkins,Raiding Party,HIGH
+Dread Corsair,Backstab,Raiding Party,HIGH
+Backstab,Eviscerate,Raiding Party,HIGH
+EVIL Miscreant,Backstab,Waggle Pick,HIGH
+EVIL Miscreant,Backstab,Leeroy Jenkins,HIGH
+EVIL Miscreant,Backstab,Dread Corsair,HIGH
+EVIL Miscreant,Backstab,Eviscerate,HIGH
+Waggle Pick,Backstab,Leeroy Jenkins,HIGH
+Waggle Pick,Backstab,Dread Corsair,HIGH
+Waggle Pick,Backstab,Eviscerate,HIGH
+Dread Corsair,Backstab,Leeroy Jenkins,HIGH
+Backstab,Eviscerate,Leeroy Jenkins,HIGH
+Backstab,Eviscerate,Dread Corsair,HIGH
+Edwin VanCleef,EVIL Miscreant,Raiding Party,HIGH
+Edwin VanCleef,Waggle Pick,Raiding Party,HIGH
+Edwin VanCleef,Leeroy Jenkins,Raiding Party,HIGH
+Edwin VanCleef,Dread Corsair,Raiding Party,HIGH
+Edwin VanCleef,Eviscerate,Raiding Party,HIGH
+Edwin VanCleef,Waggle Pick,EVIL Miscreant,HIGH
+Edwin VanCleef,EVIL Miscreant,Leeroy Jenkins,HIGH
+Edwin VanCleef,EVIL Miscreant,Dread Corsair,HIGH
+Edwin VanCleef,EVIL Miscreant,Eviscerate,HIGH
+Edwin VanCleef,Waggle Pick,Leeroy Jenkins,HIGH
+Edwin VanCleef,Waggle Pick,Dread Corsair,HIGH
+Edwin VanCleef,Waggle Pick,Eviscerate,HIGH
+Edwin VanCleef,Leeroy Jenkins,Dread Corsair,HIGH
+Edwin VanCleef,Leeroy Jenkins,Eviscerate,HIGH
+Edwin VanCleef,Eviscerate,Dread Corsair,HIGH
+Waggle Pick,EVIL Miscreant,Raiding Party,HIGH
+EVIL Miscreant,Leeroy Jenkins,Raiding Party,HIGH
+Dread Corsair,EVIL Miscreant,Raiding Party,HIGH
+EVIL Miscreant,Eviscerate,Raiding Party,HIGH
+Waggle Pick,Leeroy Jenkins,Raiding Party,HIGH
+Dread Corsair,Waggle Pick,Raiding Party,HIGH
+Waggle Pick,Eviscerate,Raiding Party,HIGH
+Dread Corsair,Leeroy Jenkins,Raiding Party,HIGH
+Leeroy Jenkins,Eviscerate,Raiding Party,HIGH
+Dread Corsair,Eviscerate,Raiding Party,HIGH
+Waggle Pick,EVIL Miscreant,Leeroy Jenkins,HIGH
+Waggle Pick,EVIL Miscreant,Dread Corsair,HIGH
+Waggle Pick,EVIL Miscreant,Eviscerate,HIGH
+Dread Corsair,EVIL Miscreant,Leeroy Jenkins,HIGH
+EVIL Miscreant,Eviscerate,Leeroy Jenkins,HIGH
+EVIL Miscreant,Eviscerate,Dread Corsair,HIGH
+Waggle Pick,Leeroy Jenkins,Dread Corsair,HIGH
+Waggle Pick,Leeroy Jenkins,Eviscerate,HIGH
+Waggle Pick,Eviscerate,Dread Corsair,HIGH
+Leeroy Jenkins,Eviscerate,Dread Corsair,HIGH
+Edwin VanCleef,Backstab,Preparation,SI:7 Agent,HIGH
+Backstab,Preparation,Raiding Party,SI:7 Agent,HIGH
+EVIL Miscreant,Backstab,Preparation,SI:7 Agent,HIGH
+Waggle Pick,Backstab,Preparation,SI:7 Agent,HIGH
+Backstab,Preparation,Leeroy Jenkins,SI:7 Agent,HIGH
+Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Eviscerate,Backstab,Preparation,SI:7 Agent,HIGH
+Edwin VanCleef,Preparation,Raiding Party,SI:7 Agent,HIGH
+Edwin VanCleef,EVIL Miscreant,Preparation,SI:7 Agent,HIGH
+Edwin VanCleef,Waggle Pick,Preparation,SI:7 Agent,HIGH
+Edwin VanCleef,Leeroy Jenkins,Preparation,SI:7 Agent,HIGH
+Edwin VanCleef,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Edwin VanCleef,Eviscerate,Preparation,SI:7 Agent,HIGH
+EVIL Miscreant,Preparation,Raiding Party,SI:7 Agent,HIGH
+Waggle Pick,Preparation,Raiding Party,SI:7 Agent,HIGH
+Leeroy Jenkins,Preparation,Raiding Party,SI:7 Agent,HIGH
+Dread Corsair,Preparation,Raiding Party,SI:7 Agent,HIGH
+Eviscerate,Preparation,Raiding Party,SI:7 Agent,HIGH
+Waggle Pick,EVIL Miscreant,Preparation,SI:7 Agent,HIGH
+EVIL Miscreant,Preparation,Leeroy Jenkins,SI:7 Agent,HIGH
+EVIL Miscreant,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Eviscerate,EVIL Miscreant,Preparation,SI:7 Agent,HIGH
+Waggle Pick,Leeroy Jenkins,Preparation,SI:7 Agent,HIGH
+Waggle Pick,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Eviscerate,Waggle Pick,Preparation,SI:7 Agent,HIGH
+Leeroy Jenkins,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Eviscerate,Leeroy Jenkins,Preparation,SI:7 Agent,HIGH
+Eviscerate,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Raiding Party,SI:7 Agent,HIGH
+Edwin VanCleef,EVIL Miscreant,Backstab,SI:7 Agent,HIGH
+Edwin VanCleef,Waggle Pick,Backstab,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Leeroy Jenkins,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Dread Corsair,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Eviscerate,SI:7 Agent,HIGH
+EVIL Miscreant,Backstab,Raiding Party,SI:7 Agent,HIGH
+Waggle Pick,Backstab,Raiding Party,SI:7 Agent,HIGH
+Backstab,Leeroy Jenkins,Raiding Party,SI:7 Agent,HIGH
+Dread Corsair,Backstab,Raiding Party,SI:7 Agent,HIGH
+Backstab,Eviscerate,Raiding Party,SI:7 Agent,HIGH
+Waggle Pick,EVIL Miscreant,Backstab,SI:7 Agent,HIGH
+EVIL Miscreant,Backstab,Leeroy Jenkins,SI:7 Agent,HIGH
+EVIL Miscreant,Backstab,Dread Corsair,SI:7 Agent,HIGH
+EVIL Miscreant,Backstab,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Backstab,Leeroy Jenkins,SI:7 Agent,HIGH
+Waggle Pick,Backstab,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,Backstab,Eviscerate,SI:7 Agent,HIGH
+Dread Corsair,Backstab,Leeroy Jenkins,SI:7 Agent,HIGH
+Backstab,Eviscerate,Leeroy Jenkins,SI:7 Agent,HIGH
+Backstab,Eviscerate,Dread Corsair,SI:7 Agent,HIGH
+Edwin VanCleef,EVIL Miscreant,Raiding Party,SI:7 Agent,HIGH
+Edwin VanCleef,Waggle Pick,Raiding Party,SI:7 Agent,HIGH
+Edwin VanCleef,Leeroy Jenkins,Raiding Party,SI:7 Agent,HIGH
+Edwin VanCleef,Dread Corsair,Raiding Party,SI:7 Agent,HIGH
+Edwin VanCleef,Eviscerate,Raiding Party,SI:7 Agent,HIGH
+Edwin VanCleef,Waggle Pick,EVIL Miscreant,SI:7 Agent,HIGH
+Edwin VanCleef,EVIL Miscreant,Leeroy Jenkins,SI:7 Agent,HIGH
+Edwin VanCleef,EVIL Miscreant,Dread Corsair,SI:7 Agent,HIGH
+Edwin VanCleef,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Edwin VanCleef,Waggle Pick,Leeroy Jenkins,SI:7 Agent,HIGH
+Edwin VanCleef,Waggle Pick,Dread Corsair,SI:7 Agent,HIGH
+Edwin VanCleef,Waggle Pick,Eviscerate,SI:7 Agent,HIGH
+Edwin VanCleef,Leeroy Jenkins,Dread Corsair,SI:7 Agent,HIGH
+Edwin VanCleef,Leeroy Jenkins,Eviscerate,SI:7 Agent,HIGH
+Edwin VanCleef,Eviscerate,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,EVIL Miscreant,Raiding Party,SI:7 Agent,HIGH
+EVIL Miscreant,Leeroy Jenkins,Raiding Party,SI:7 Agent,HIGH
+Dread Corsair,EVIL Miscreant,Raiding Party,SI:7 Agent,HIGH
+EVIL Miscreant,Eviscerate,Raiding Party,SI:7 Agent,HIGH
+Waggle Pick,Leeroy Jenkins,Raiding Party,SI:7 Agent,HIGH
+Dread Corsair,Waggle Pick,Raiding Party,SI:7 Agent,HIGH
+Waggle Pick,Eviscerate,Raiding Party,SI:7 Agent,HIGH
+Dread Corsair,Leeroy Jenkins,Raiding Party,SI:7 Agent,HIGH
+Leeroy Jenkins,Eviscerate,Raiding Party,SI:7 Agent,HIGH
+Dread Corsair,Eviscerate,Raiding Party,SI:7 Agent,HIGH
+Waggle Pick,EVIL Miscreant,Leeroy Jenkins,SI:7 Agent,HIGH
+Waggle Pick,EVIL Miscreant,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Dread Corsair,EVIL Miscreant,Leeroy Jenkins,SI:7 Agent,HIGH
+EVIL Miscreant,Eviscerate,Leeroy Jenkins,SI:7 Agent,HIGH
+EVIL Miscreant,Eviscerate,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,Leeroy Jenkins,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,Leeroy Jenkins,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Eviscerate,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Eviscerate,Dread Corsair,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Preparation,Raiding Party,HIGH
+Edwin VanCleef,EVIL Miscreant,Backstab,Preparation,HIGH
+Edwin VanCleef,Waggle Pick,Backstab,Preparation,HIGH
+Edwin VanCleef,Backstab,Preparation,Leeroy Jenkins,HIGH
+Edwin VanCleef,Backstab,Preparation,Dread Corsair,HIGH
+Edwin VanCleef,Eviscerate,Backstab,Preparation,HIGH
+EVIL Miscreant,Backstab,Preparation,Raiding Party,HIGH
+Waggle Pick,Backstab,Preparation,Raiding Party,HIGH
+Backstab,Preparation,Leeroy Jenkins,Raiding Party,HIGH
+Dread Corsair,Backstab,Preparation,Raiding Party,HIGH
+Eviscerate,Backstab,Preparation,Raiding Party,HIGH
+EVIL Miscreant,Backstab,Preparation,Waggle Pick,HIGH
+EVIL Miscreant,Backstab,Preparation,Leeroy Jenkins,HIGH
+EVIL Miscreant,Backstab,Preparation,Dread Corsair,HIGH
+Eviscerate,EVIL Miscreant,Backstab,Preparation,HIGH
+Waggle Pick,Backstab,Preparation,Leeroy Jenkins,HIGH
+Waggle Pick,Backstab,Preparation,Dread Corsair,HIGH
+Eviscerate,Waggle Pick,Backstab,Preparation,HIGH
+Dread Corsair,Backstab,Preparation,Leeroy Jenkins,HIGH
+Eviscerate,Backstab,Preparation,Leeroy Jenkins,HIGH
+Eviscerate,Backstab,Preparation,Dread Corsair,HIGH
+Edwin VanCleef,EVIL Miscreant,Preparation,Raiding Party,HIGH
+Edwin VanCleef,Waggle Pick,Preparation,Raiding Party,HIGH
+Edwin VanCleef,Leeroy Jenkins,Preparation,Raiding Party,HIGH
+Edwin VanCleef,Preparation,Dread Corsair,Raiding Party,HIGH
+Edwin VanCleef,Eviscerate,Preparation,Raiding Party,HIGH
+Edwin VanCleef,Waggle Pick,EVIL Miscreant,Preparation,HIGH
+Edwin VanCleef,EVIL Miscreant,Preparation,Leeroy Jenkins,HIGH
+Edwin VanCleef,EVIL Miscreant,Preparation,Dread Corsair,HIGH
+Edwin VanCleef,Eviscerate,EVIL Miscreant,Preparation,HIGH
+Edwin VanCleef,Waggle Pick,Leeroy Jenkins,Preparation,HIGH
+Edwin VanCleef,Waggle Pick,Preparation,Dread Corsair,HIGH
+Edwin VanCleef,Eviscerate,Waggle Pick,Preparation,HIGH
+Edwin VanCleef,Leeroy Jenkins,Preparation,Dread Corsair,HIGH
+Edwin VanCleef,Eviscerate,Leeroy Jenkins,Preparation,HIGH
+Edwin VanCleef,Eviscerate,Preparation,Dread Corsair,HIGH
+Waggle Pick,EVIL Miscreant,Preparation,Raiding Party,HIGH
+EVIL Miscreant,Preparation,Leeroy Jenkins,Raiding Party,HIGH
+Dread Corsair,EVIL Miscreant,Preparation,Raiding Party,HIGH
+Eviscerate,EVIL Miscreant,Preparation,Raiding Party,HIGH
+Waggle Pick,Leeroy Jenkins,Preparation,Raiding Party,HIGH
+Dread Corsair,Waggle Pick,Preparation,Raiding Party,HIGH
+Eviscerate,Waggle Pick,Preparation,Raiding Party,HIGH
+Dread Corsair,Leeroy Jenkins,Preparation,Raiding Party,HIGH
+Eviscerate,Leeroy Jenkins,Preparation,Raiding Party,HIGH
+Dread Corsair,Eviscerate,Preparation,Raiding Party,HIGH
+Waggle Pick,EVIL Miscreant,Preparation,Leeroy Jenkins,HIGH
+Waggle Pick,EVIL Miscreant,Preparation,Dread Corsair,HIGH
+Eviscerate,Waggle Pick,EVIL Miscreant,Preparation,HIGH
+Dread Corsair,EVIL Miscreant,Preparation,Leeroy Jenkins,HIGH
+Eviscerate,EVIL Miscreant,Preparation,Leeroy Jenkins,HIGH
+Eviscerate,EVIL Miscreant,Preparation,Dread Corsair,HIGH
+Waggle Pick,Leeroy Jenkins,Preparation,Dread Corsair,HIGH
+Eviscerate,Waggle Pick,Leeroy Jenkins,Preparation,HIGH
+Eviscerate,Waggle Pick,Preparation,Dread Corsair,HIGH
+Eviscerate,Leeroy Jenkins,Preparation,Dread Corsair,HIGH
+Edwin VanCleef,EVIL Miscreant,Backstab,Raiding Party,HIGH
+Edwin VanCleef,Waggle Pick,Backstab,Raiding Party,HIGH
+Edwin VanCleef,Backstab,Leeroy Jenkins,Raiding Party,HIGH
+Edwin VanCleef,Backstab,Dread Corsair,Raiding Party,HIGH
+Edwin VanCleef,Backstab,Eviscerate,Raiding Party,HIGH
+Edwin VanCleef,EVIL Miscreant,Backstab,Waggle Pick,HIGH
+Edwin VanCleef,EVIL Miscreant,Backstab,Leeroy Jenkins,HIGH
+Edwin VanCleef,EVIL Miscreant,Backstab,Dread Corsair,HIGH
+Edwin VanCleef,EVIL Miscreant,Backstab,Eviscerate,HIGH
+Edwin VanCleef,Waggle Pick,Backstab,Leeroy Jenkins,HIGH
+Edwin VanCleef,Waggle Pick,Backstab,Dread Corsair,HIGH
+Edwin VanCleef,Waggle Pick,Backstab,Eviscerate,HIGH
+Edwin VanCleef,Backstab,Dread Corsair,Leeroy Jenkins,HIGH
+Edwin VanCleef,Backstab,Eviscerate,Leeroy Jenkins,HIGH
+Edwin VanCleef,Backstab,Eviscerate,Dread Corsair,HIGH
+EVIL Miscreant,Backstab,Raiding Party,Waggle Pick,HIGH
+EVIL Miscreant,Backstab,Leeroy Jenkins,Raiding Party,HIGH
+Dread Corsair,EVIL Miscreant,Backstab,Raiding Party,HIGH
+EVIL Miscreant,Backstab,Eviscerate,Raiding Party,HIGH
+Waggle Pick,Backstab,Leeroy Jenkins,Raiding Party,HIGH
+Dread Corsair,Waggle Pick,Backstab,Raiding Party,HIGH
+Waggle Pick,Backstab,Eviscerate,Raiding Party,HIGH
+Dread Corsair,Backstab,Leeroy Jenkins,Raiding Party,HIGH
+Backstab,Eviscerate,Leeroy Jenkins,Raiding Party,HIGH
+Dread Corsair,Backstab,Eviscerate,Raiding Party,HIGH
+EVIL Miscreant,Backstab,Leeroy Jenkins,Waggle Pick,HIGH
+EVIL Miscreant,Backstab,Dread Corsair,Waggle Pick,HIGH
+EVIL Miscreant,Backstab,Eviscerate,Waggle Pick,HIGH
+Dread Corsair,EVIL Miscreant,Backstab,Leeroy Jenkins,HIGH
+EVIL Miscreant,Backstab,Eviscerate,Leeroy Jenkins,HIGH
+EVIL Miscreant,Backstab,Eviscerate,Dread Corsair,HIGH
+Dread Corsair,Waggle Pick,Backstab,Leeroy Jenkins,HIGH
+Waggle Pick,Backstab,Eviscerate,Leeroy Jenkins,HIGH
+Waggle Pick,Backstab,Eviscerate,Dread Corsair,HIGH
+Dread Corsair,Backstab,Eviscerate,Leeroy Jenkins,HIGH
+Edwin VanCleef,Waggle Pick,EVIL Miscreant,Raiding Party,HIGH
+Edwin VanCleef,EVIL Miscreant,Leeroy Jenkins,Raiding Party,HIGH
+Edwin VanCleef,EVIL Miscreant,Dread Corsair,Raiding Party,HIGH
+Edwin VanCleef,EVIL Miscreant,Eviscerate,Raiding Party,HIGH
+Edwin VanCleef,Waggle Pick,Leeroy Jenkins,Raiding Party,HIGH
+Edwin VanCleef,Waggle Pick,Dread Corsair,Raiding Party,HIGH
+Edwin VanCleef,Waggle Pick,Eviscerate,Raiding Party,HIGH
+Edwin VanCleef,Leeroy Jenkins,Dread Corsair,Raiding Party,HIGH
+Edwin VanCleef,Leeroy Jenkins,Eviscerate,Raiding Party,HIGH
+Edwin VanCleef,Eviscerate,Dread Corsair,Raiding Party,HIGH
+Edwin VanCleef,Waggle Pick,EVIL Miscreant,Leeroy Jenkins,HIGH
+Edwin VanCleef,Waggle Pick,EVIL Miscreant,Dread Corsair,HIGH
+Edwin VanCleef,Waggle Pick,EVIL Miscreant,Eviscerate,HIGH
+Edwin VanCleef,EVIL Miscreant,Dread Corsair,Leeroy Jenkins,HIGH
+Edwin VanCleef,EVIL Miscreant,Eviscerate,Leeroy Jenkins,HIGH
+Edwin VanCleef,EVIL Miscreant,Eviscerate,Dread Corsair,HIGH
+Edwin VanCleef,Waggle Pick,Leeroy Jenkins,Dread Corsair,HIGH
+Edwin VanCleef,Waggle Pick,Leeroy Jenkins,Eviscerate,HIGH
+Edwin VanCleef,Waggle Pick,Eviscerate,Dread Corsair,HIGH
+Edwin VanCleef,Leeroy Jenkins,Eviscerate,Dread Corsair,HIGH
+Waggle Pick,EVIL Miscreant,Leeroy Jenkins,Raiding Party,HIGH
+Dread Corsair,Waggle Pick,EVIL Miscreant,Raiding Party,HIGH
+Waggle Pick,EVIL Miscreant,Eviscerate,Raiding Party,HIGH
+Dread Corsair,EVIL Miscreant,Leeroy Jenkins,Raiding Party,HIGH
+EVIL Miscreant,Eviscerate,Leeroy Jenkins,Raiding Party,HIGH
+Dread Corsair,EVIL Miscreant,Eviscerate,Raiding Party,HIGH
+Dread Corsair,Waggle Pick,Leeroy Jenkins,Raiding Party,HIGH
+Waggle Pick,Leeroy Jenkins,Eviscerate,Raiding Party,HIGH
+Dread Corsair,Waggle Pick,Eviscerate,Raiding Party,HIGH
+Dread Corsair,Leeroy Jenkins,Eviscerate,Raiding Party,HIGH
+Dread Corsair,Waggle Pick,EVIL Miscreant,Leeroy Jenkins,HIGH
+Waggle Pick,EVIL Miscreant,Eviscerate,Leeroy Jenkins,HIGH
+Waggle Pick,EVIL Miscreant,Eviscerate,Dread Corsair,HIGH
+Dread Corsair,EVIL Miscreant,Eviscerate,Leeroy Jenkins,HIGH
+Waggle Pick,Leeroy Jenkins,Eviscerate,Dread Corsair,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Preparation,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Preparation,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Preparation,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Preparation,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Backstab,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Backstab,Preparation,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Preparation,SI:7 Agent,HIGH
+Raiding Party,Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Raiding Party,Backstab,Preparation,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Backstab,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Backstab,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Preparation,SI:7 Agent,HIGH
+Waggle Pick,Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,Backstab,Preparation,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Backstab,Preparation,Eviscerate,SI:7 Agent,HIGH
+Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Preparation,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Preparation,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Edwin VanCleef,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Preparation,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Preparation,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Preparation,Eviscerate,SI:7 Agent,HIGH
+Edwin VanCleef,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Raiding Party,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Raiding Party,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Preparation,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Preparation,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Preparation,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Preparation,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Backstab,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,EVIL Miscreant,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Eviscerate,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Backstab,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,EVIL Miscreant,SI:7 Agent,HIGH
+Raiding Party,Backstab,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Raiding Party,Backstab,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Backstab,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Backstab,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Backstab,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Backstab,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Backstab,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Backstab,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Backstab,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Backstab,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Backstab,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,EVIL Miscreant,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Edwin VanCleef,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Preparation,Eviscerate,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,HIGH
+Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Preparation,Eviscerate,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Preparation,Dread Corsair,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Preparation,Eviscerate,HIGH
+Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Backstab,Preparation,EVIL Miscreant,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Preparation,EVIL Miscreant,HIGH
+Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Raiding Party,Backstab,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,HIGH
+Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,HIGH
+Waggle Pick,Raiding Party,Backstab,Preparation,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Preparation,Dread Corsair,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Preparation,Eviscerate,HIGH
+Raiding Party,Backstab,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Preparation,EVIL Miscreant,HIGH
+Waggle Pick,Backstab,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Waggle Pick,Backstab,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Backstab,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Backstab,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Preparation,Dread Corsair,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Preparation,Eviscerate,HIGH
+Waggle Pick,Backstab,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Backstab,Preparation,Dread Corsair,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,EVIL Miscreant,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Preparation,EVIL Miscreant,HIGH
+Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Raiding Party,Edwin VanCleef,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Preparation,Eviscerate,HIGH
+Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Preparation,EVIL Miscreant,HIGH
+Waggle Pick,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Waggle Pick,Edwin VanCleef,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Edwin VanCleef,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Preparation,Dread Corsair,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Preparation,Eviscerate,HIGH
+Waggle Pick,Edwin VanCleef,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Edwin VanCleef,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Preparation,EVIL Miscreant,HIGH
+Waggle Pick,Raiding Party,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Waggle Pick,Raiding Party,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Raiding Party,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Raiding Party,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Preparation,Dread Corsair,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Preparation,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Waggle Pick,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Preparation,Dread Corsair,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,EVIL Miscreant,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,EVIL Miscreant,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,HIGH
+Raiding Party,Edwin VanCleef,Backstab,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Eviscerate,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,EVIL Miscreant,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,EVIL Miscreant,Eviscerate,HIGH
+Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Dread Corsair,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Eviscerate,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,EVIL Miscreant,HIGH
+Waggle Pick,Raiding Party,Backstab,Dread Corsair,EVIL Miscreant,HIGH
+Waggle Pick,Raiding Party,Backstab,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,EVIL Miscreant,Eviscerate,HIGH
+Raiding Party,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Dread Corsair,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Backstab,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,EVIL Miscreant,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Dread Corsair,EVIL Miscreant,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,EVIL Miscreant,Eviscerate,HIGH
+Raiding Party,Edwin VanCleef,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Dread Corsair,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Edwin VanCleef,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Edwin VanCleef,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Preparation,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Preparation,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Preparation,Eviscerate,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Backstab,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Raiding Party,Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Backstab,Preparation,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Preparation,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Preparation,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Preparation,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Preparation,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Preparation,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,EVIL Miscreant,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Backstab,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Backstab,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Backstab,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Backstab,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,Eviscerate,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,Eviscerate,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,EVIL Miscreant,HIGH
+Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Waggle Pick,Raiding Party,Backstab,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,EVIL Miscreant,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,EVIL Miscreant,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,EVIL Miscreant,Eviscerate,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,HIGH
+Leeroy Jenkins,Waggle Pick,Raiding Party,Edwin VanCleef,Backstab,Preparation,Dread Corsair,EVIL Miscreant,Eviscerate,SI:7 Agent,HIGH

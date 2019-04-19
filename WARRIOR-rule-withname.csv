@@ -1,0 +1,76 @@
+Shield Block,LOW
+Shield Block,MEDIUM
+Warpath,MEDIUM
+Dr. Boom, Mad Genius,HIGH
+Dr. Boom, Mad Genius,MEDIUM
+Omega Assembly,HIGH
+Omega Assembly,MEDIUM
+Dyn-o-matic,HIGH
+Dyn-o-matic,MEDIUM
+Eternium Rover,HIGH
+Zilliax,HIGH
+Zilliax,MEDIUM
+Shield Slam,LOW
+Brawl,HIGH
+Brawl,MEDIUM
+Shield Block,Shield Slam,LOW
+Brawl,Shield Block,MEDIUM
+Dr. Boom, Mad Genius,Omega Assembly,HIGH
+Dr. Boom, Mad Genius,Omega Assembly,MEDIUM
+Dr. Boom, Mad Genius,Dyn-o-matic,HIGH
+Dr. Boom, Mad Genius,Dyn-o-matic,MEDIUM
+Dr. Boom, Mad Genius,Eternium Rover,HIGH
+Dr. Boom, Mad Genius,Zilliax,HIGH
+Dr. Boom, Mad Genius,Zilliax,MEDIUM
+Brawl,Dr. Boom, Mad Genius,HIGH
+Brawl,Dr. Boom, Mad Genius,MEDIUM
+Omega Assembly,Dyn-o-matic,HIGH
+Omega Assembly,Dyn-o-matic,MEDIUM
+Omega Assembly,Zilliax,HIGH
+Omega Assembly,Zilliax,MEDIUM
+Brawl,Omega Assembly,HIGH
+Brawl,Omega Assembly,MEDIUM
+Eternium Rover,Dyn-o-matic,HIGH
+Zilliax,Dyn-o-matic,HIGH
+Zilliax,Dyn-o-matic,MEDIUM
+Brawl,Dyn-o-matic,HIGH
+Brawl,Dyn-o-matic,MEDIUM
+Zilliax,Eternium Rover,HIGH
+Zilliax,Shield Slam,LOW
+Brawl,Zilliax,HIGH
+Brawl,Zilliax,MEDIUM
+Brawl,Shield Slam,LOW
+Dr. Boom, Mad Genius,Omega Assembly,Dyn-o-matic,HIGH
+Dr. Boom, Mad Genius,Omega Assembly,Dyn-o-matic,MEDIUM
+Dr. Boom, Mad Genius,Zilliax,Omega Assembly,HIGH
+Dr. Boom, Mad Genius,Zilliax,Omega Assembly,MEDIUM
+Brawl,Dr. Boom, Mad Genius,Omega Assembly,HIGH
+Brawl,Dr. Boom, Mad Genius,Omega Assembly,MEDIUM
+Dr. Boom, Mad Genius,Zilliax,Dyn-o-matic,HIGH
+Dr. Boom, Mad Genius,Zilliax,Dyn-o-matic,MEDIUM
+Brawl,Dr. Boom, Mad Genius,Dyn-o-matic,HIGH
+Brawl,Dr. Boom, Mad Genius,Dyn-o-matic,MEDIUM
+Dr. Boom, Mad Genius,Zilliax,Eternium Rover,HIGH
+Brawl,Dr. Boom, Mad Genius,Zilliax,HIGH
+Brawl,Dr. Boom, Mad Genius,Zilliax,MEDIUM
+Omega Assembly,Zilliax,Dyn-o-matic,HIGH
+Omega Assembly,Zilliax,Dyn-o-matic,MEDIUM
+Brawl,Omega Assembly,Dyn-o-matic,HIGH
+Brawl,Omega Assembly,Dyn-o-matic,MEDIUM
+Brawl,Omega Assembly,Zilliax,HIGH
+Brawl,Omega Assembly,Zilliax,MEDIUM
+Zilliax,Eternium Rover,Dyn-o-matic,HIGH
+Brawl,Zilliax,Dyn-o-matic,HIGH
+Brawl,Zilliax,Dyn-o-matic,MEDIUM
+Dr. Boom, Mad Genius,Zilliax,Omega Assembly,Dyn-o-matic,HIGH
+Dr. Boom, Mad Genius,Zilliax,Omega Assembly,Dyn-o-matic,MEDIUM
+Brawl,Dr. Boom, Mad Genius,Omega Assembly,Dyn-o-matic,HIGH
+Brawl,Dr. Boom, Mad Genius,Omega Assembly,Dyn-o-matic,MEDIUM
+Brawl,Dr. Boom, Mad Genius,Zilliax,Omega Assembly,HIGH
+Brawl,Dr. Boom, Mad Genius,Zilliax,Omega Assembly,MEDIUM
+Brawl,Dr. Boom, Mad Genius,Zilliax,Dyn-o-matic,HIGH
+Brawl,Dr. Boom, Mad Genius,Zilliax,Dyn-o-matic,MEDIUM
+Brawl,Omega Assembly,Zilliax,Dyn-o-matic,HIGH
+Brawl,Omega Assembly,Zilliax,Dyn-o-matic,MEDIUM
+Dr. Boom, Mad Genius,Brawl,Omega Assembly,Dyn-o-matic,Zilliax,HIGH
+Dr. Boom, Mad Genius,Brawl,Omega Assembly,Dyn-o-matic,Zilliax,MEDIUM

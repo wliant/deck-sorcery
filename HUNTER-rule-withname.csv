@@ -1,0 +1,11 @@
+Tracking,MEDIUM
+Kill Command,MEDIUM
+Flanking Strike,HIGH
+Flanking Strike,MEDIUM
+Deathstalker Rexxar,HIGH
+Deathstalker Rexxar,MEDIUM
+Animal Companion,LOW
+Animal Companion,MEDIUM
+Kill Command,Animal Companion,MEDIUM
+Deathstalker Rexxar,Flanking Strike,HIGH
+Deathstalker Rexxar,Flanking Strike,MEDIUM
