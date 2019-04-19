@@ -36,11 +36,11 @@ for hc in heroClasses:
         writeData.append(d[1:] + [mapping[wrGroup]])
         writeDataPretty.append([getCardName(int(c)) for c in d[1:len(d)-1]] + [d[len(d)-1]] + [mapping[wrGroup]])
 
-    with open("{0}-data.csv".format(hc), "w") as outfile:
+    with open("data/{0}-data.csv".format(hc), "w") as outfile:
         for wd in writeData:
             outfile.write(",".join(wd)+"\n")
 
-    with open("{0}-data-withname.csv".format(hc), "w") as outfile:
+    with open("data/{0}-data-withname.csv".format(hc), "w") as outfile:
         for wd in writeDataPretty:
             outfile.write(",".join(wd)+"\n")
 
@@ -59,10 +59,10 @@ for hc in heroClasses:
                 classRules.append([a for a in ibase] + [next(iter(iadd))])
                 classRulesPretty.append([getCardName(int(a)) for a in ibase] + [next(iter(iadd))])
 
-    with open("{0}-rule.csv".format(hc), "w") as outfile:
+    with open("data/{0}-rule.csv".format(hc), "w") as outfile:
         for wd in classRules:
             outfile.write(",".join(wd) + "\n")
-    with open("{0}-rule-withname.csv".format(hc), "w") as outfile:
+    with open("data/{0}-rule-withname.csv".format(hc), "w") as outfile:
         for wd in classRulesPretty:
             outfile.write(",".join(wd) + "\n")
     print("completed class: {0}".format(hc))
