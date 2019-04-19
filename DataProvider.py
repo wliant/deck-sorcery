@@ -120,7 +120,8 @@ def getAllHeroClass():
     return list(dict.fromkeys(classes))
 
 def getCardsForHero(heroClass):
-    cardsForHero=[card for card in myCardList if card['class'] == heroClass]
+    cardsForHero=[card for card in myCardList if card['class'] == heroClass and card["set"] in standardSet]
+    cardsForHero = sorted(cardsForHero, key=lambda x:(int(x["cost"]), x["name"]))
     print(cardsForHero)
     return cardsForHero
 
