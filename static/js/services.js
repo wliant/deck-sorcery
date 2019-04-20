@@ -12,3 +12,12 @@ $(document).ready(function(){
         }
   });
 });
+
+function setCheckboxValue() {
+  if(document.myForm.useLibrary.checked) {
+    document.getElementById("library-check-box").setAttribute('value', true);
+  }
+  else {
+    document.getElementById("library-check-box").setAttribute('value', false);
+  }
+}

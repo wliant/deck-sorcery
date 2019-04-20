@@ -3,9 +3,11 @@ $(document).ready(function(){
   console.log(window.location.search)
   var urlParams = new URLSearchParams(window.location.search);
   var heroName = urlParams.get("services-hero");
+  var useLibrary = urlParams.get("useLibrary");
   console.log(heroName)
   cardsForHero = {
-    heroClass: heroName
+    heroClass: heroName,
+    isLibrary: useLibrary
   }
   $("#hero-class").append("<h2 class=\"site-section-heading text-center\">Result For "+heroName+"</h2>")
   $.ajax({

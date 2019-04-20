@@ -103,7 +103,9 @@
 
           <div class="row">
             <div class="col-lg-8 mb-5">
-              <form action="/result" method="GET">
+              <form action="/result" method="GET" name="myForm">
+                  <input type="checkbox" id="library-check-box" name="useLibrary" onClick="setCheckboxValue()">
+                    Base On Library <br />
                
                   <h4 class="text-black" for="fname">Choose the Hero</h4>
 
