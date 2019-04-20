@@ -95,7 +95,7 @@ def convertToFeaturesArray(heroClass, deck):
             calculateRaceCount("MURLOC", deck),
             calculateRaceCount("MECHANICAL", deck),
             calculateRaceCount("BEAST", deck),
-            #calculateClassCardCount(deck),
+            calculateClassCardCount(deck),
             calculateCostCount(1, deck),
             calculateCostCount(2, deck),
             calculateCostCount(3, deck),
@@ -105,8 +105,8 @@ def convertToFeaturesArray(heroClass, deck):
             calculateCostCount(7, deck),
             calculateRule(heroClass, "HIGH", deck),
             calculateRule(heroClass, "MEDIUM", deck),
-            calculateRule(heroClass, "LOW", deck)
-            #calculateAverageCardWinRate(heroClass, deck)
+            calculateRule(heroClass, "LOW", deck),
+            calculateAverageCardWinRate(heroClass, deck)
         ]
     #print(result)
     return result

@@ -49,9 +49,8 @@ def cardsForHero():
 @app.route("/getTheDeckForHero")
 def getTheDeckForHero():
     heroClass = request.args.get('heroClass')
-    useLibrary = request.args.get('useLibrary')
-    resultIdList = generateDeck(heroClass,[], useLibrary)
-    print(resultIdList)
+    isLibrary = request.args.get('isLibrary')
+    resultIdList = generateDeck(heroClass,[], isLibrary)
     return json.dumps(resultIdList),200
 
 @app.route("/getCardsLibrary")

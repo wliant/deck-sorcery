@@ -7,9 +7,9 @@ from deap import tools
 import time
 
 class GeneticAlgorithm:
-    def __init__(self, heroClass, initialSelection):
+    def __init__(self, heroClass, initialSelection, useLibrary):
         self.heroClass = heroClass
-        self.cardPool = getAvailableCardIdsForConstruction(heroClass)
+        self.cardPool = getAvailableCardIdsForConstruction(heroClass) if not useLibrary else getLibraryCardIdsForConstruction(heroClass)
         self.initialSelection = initialSelection
         self.toolbox = base.Toolbox()
 
@@ -64,7 +64,7 @@ class GeneticAlgorithm:
                 return False
         return True
 
-    def run(self, popSize=300, noOfGen=1000, cxRate=0.5,mutRate=0.2):
+    def run(self, popSize=300, noOfGen=1000, cxRate=lambda gen: 0.5,mutRate=lambda gen: 0.2):
         start = time.time()
         best_ind = None
         random.seed()
@@ -98,7 +98,7 @@ class GeneticAlgorithm:
             for child1, child2 in zip(offspring[::2], offspring[1::2]):
 
                 # cross two individuals with probability CXPB
-                if random.random() < cxRate:
+                if random.random() < cxRate(g):
                     self.toolbox.mate(child1, child2)
 
                     # fitness values of the children
@@ -109,7 +109,7 @@ class GeneticAlgorithm:
             for mutant in offspring:
 
                 # mutate an individual with probability MUTPB
-                if random.random() < mutRate:
+                if random.random() < mutRate(g):
                     self.toolbox.mutate(mutant, indpb=0.15)
                     del mutant.fitness.values
         
@@ -150,6 +150,8 @@ class GeneticAlgorithm:
         al = [(self.cardPool[index], getCardName(self.cardPool[index]), getCardCost(self.cardPool[index])) for index in best_ind]
         al = sorted(al, key = lambda x: (x[2], x[1]))
         al = [x[0] for x in al]
+        self.result = al
+        self.fitness = best_ind.fitness.values
         return al
 
 
@@ -157,22 +159,6 @@ class GeneticAlgorithm:
 # initialSelection is a list of cards id preselected by the user. can by empty
 # this method return the result after the genetic algorithm run.
 def generateDeck(heroClass, initialSelection, useLibrary=False):
-    ga = GeneticAlgorithm(heroClass, initialSelection)
-    return ga.run(popSize=600, noOfGen=2000)
-    #return ga.run()
-
-#generateDeck("MAGE", [])
-#heroClasses = ["DRUID", "HUNTER", "MAGE", "PALADIN", "PRIEST", "ROGUE", "SHAMAN", "WARLOCK", "WARRIOR"]
-#for hc in heroClasses:
-#    allResults = []
-#    for i in range(100):
-#        result=generateDeck(hc, [])
-#        allResults.append([getCardName(c) for c in result])
-#    with open(hc+".csv", "wb") as outfile:
-#        for r in allResults:
-#            outfile.write(",".join(r) + "\n")
-
-#generateDeck("MAGE",[])
-
-#c = getAvailableCardIdsForConstruction("MAGE")
-#print(len(c))
+    ga = GeneticAlgorithm(heroClass, initialSelection, useLibrary)
+    res = ga.run()
+    return res

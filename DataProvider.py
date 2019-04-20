@@ -32,8 +32,8 @@ with open(cardCsvFile,encoding ="ISO-8859-1") as infile:
     cards2 = [r for r in reader]
 
 with open(cardLibraryCsvFile,encoding ="ISO-8859-1") as infile:
-    reader = csv.reader(infile, quotechar='"', delimiter=',', quoting=csv.QUOTE_ALL, skipinitialspace=True)
-    cardIdsLibrary = [r for r in reader]
+    for line in infile:
+        cardIdsLibrary = [int(l) for l in line.strip().split(",")]
 
 rules = {}
 heroClasses = ["DRUID", "HUNTER", "MAGE", "PALADIN", "PRIEST", "ROGUE", "SHAMAN", "WARLOCK", "WARRIOR"]
@@ -87,7 +87,8 @@ for card in cards:
 
 cardDict = {c["id"]: c for c in myCardList}
 races = {c["race"] for c in myCardList}
-print(races)
+#print(races)
+
 def getCardStats():
     return cardStats
 
@@ -145,8 +146,12 @@ def getCardId(name):
     print("notfound: {0}".format(name))
 
 def getLibrary():
-    print(cardIdsLibrary)
-    return cardIdsLibrary
+    result = [c for c in myCardList if c["id"] in cardIdsLibrary]
+    result = sorted(result, key=lambda x : (x["class"],x["cost"],x["name"]))
+    return [r["id"] for r in result]
 
 def getAssociationRules(heroClass):
     return rules[heroClass]
+
+def getLibraryCardIdsForConstruction(heroClass):
+    return [c for c in cardIdsLibrary if getCardClass(int(c)) == heroClass or getCardClass(int(c)) == "NEUTRAL"]

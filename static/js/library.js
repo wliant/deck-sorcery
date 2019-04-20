@@ -6,7 +6,7 @@ $(document).ready(function(){
     dataType: "json", // type of content being received
     success: function(data) {
       console.log("library")
-      var libraryIds = data[0]
+      var libraryIds = data
       console.log(libraryIds)
       $("#hero-class").append("<h2 class=\"site-section-heading text-center\">My Library(total "+libraryIds.length+" cards)</h2>")
 

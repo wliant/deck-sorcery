@@ -75,20 +75,3 @@ for x in rules:
 
 print("{0}s elapsed".format(end-start))
 print("all interested rules: {0}".format(len(rules)))
-    #print("{0}: {1}".format(hc, len(deckStats[hc])))
-#for deck in deckStats["DRUID"]:
-#    print("{0}: {1}".format(deck["deck_id"], deck["win_rate"]))
-
-#for hc in heroClasses:
-#    deckFeatures = []
-#    winRates = []
-#    for deck in deckStats[hc]:
-#        cardArrays = [[cardId] * count for cardId, count in json.loads(deck["deck_list"])]
-#        cardArrays = [item for sublist in cardArrays for item in sublist]
-#        deckFeatures.append(convertToFeaturesArray(hc, cardArrays))
-#        winRates.append(deck["win_rate"])
-#    
-#    clf = svm.SVR()
-#    clf.fit(deckFeatures, winRates)#
-
-#    predictor[hc] = clf
